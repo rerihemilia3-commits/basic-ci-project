@@ -1,9 +1,0 @@
-
-{
-  "name": "basic-ci-project",
-  "version": "1.0.0",
-  "description": "Basic CI project with GitHub Actions",
-  "scripts": {
-    "test": "node tests/basic.test.js"
-  }
-}
