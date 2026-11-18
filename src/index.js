@@ -1,5 +1,6 @@
 function greet(name) {
-  return `Hello, ${name}!`;
+  const message = `Hello, ${name}!`;
+  return message;
 }
 
 console.log(greet("GitHub Actions"));
