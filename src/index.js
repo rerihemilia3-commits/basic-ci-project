@@ -1,6 +1,5 @@
-
 function greet(name) {
-  const message = ;
+  const message = `Hello, ${name}!`;
   return message;
 }
 
